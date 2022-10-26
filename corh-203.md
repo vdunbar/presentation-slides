@@ -2,8 +2,6 @@
 title: CORH 203
 ---
 
-## CORH 203
-
 | File | html | pdf |
 | --- | --- | --- |
 | Slides | [html](/files/2022_corh-203_slides_short.html) | [pdf](/files/2022_corh-203_slides_short.pdf) |
