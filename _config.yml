@@ -1,7 +1,7 @@
 theme: minima
 title: Presentation Slides
 description: Presentation slides and notes for guest lectures.
-author: Mathew Vis-Dunbar | [Mathew.Vis-Dunbar@ucb.ca](mailto:mathew.vis-dunbar@ubc.ca)
-twitter_username: your_twitter_username
+author: Mathew Vis-Dunbar
+twitter_username: ubcolibrary
 header_pages:
   - index.md
