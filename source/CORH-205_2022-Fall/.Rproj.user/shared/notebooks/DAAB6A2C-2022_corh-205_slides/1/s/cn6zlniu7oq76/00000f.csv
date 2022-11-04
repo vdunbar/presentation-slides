@@ -1,0 +1,5 @@
+"0","status.df <- data.frame(table(lfs$Labour.force.status))"
+"0",""
+"0","colnames(status.df) <- c(""Employment Status"", ""Count"")"
+"0",""
+"0","status.df"

@@ -1,0 +1,8 @@
+"0","wages_point <- ggplot(wages_df, aes(x = `Hourly Wage`, y = Count)) +"
+"0","  geom_point(colour = palette.1, size = 5) +"
+"0","  edu.theme +"
+"0","  theme("
+"0","    axis.title = element_text(size = 35)"
+"0","  )"
+"0",""
+"0","wages_point"

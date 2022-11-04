@@ -1,0 +1,5 @@
+"0","edu.df <- data.frame(table(lfs$Highest.educational.attainment))"
+"0",""
+"0","colnames(edu.df) <- c(""Education"", ""Count"")"
+"0",""
+"0","edu.df"

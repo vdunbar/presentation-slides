@@ -1,0 +1,218 @@
+/*H1 Properties*/
+h1 {
+text-align: center;
+}
+
+.title {
+  margin-top: 5% !important;
+}
+
+.level1 h1 {
+  padding-top: 20% !important;
+  font-size: 120%;
+}
+
+.level2 h1 {
+  padding: 40pt 0 20pt 0 !important;
+}
+
+.subtitle h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.slide h1 {
+  margin-right: 0 !important;
+}
+
+.lgp {
+  font-size: 175%;
+  width: 75%;
+  display: inline-block;
+  line-height: 1.2;
+}
+
+/*Text Properties*/
+/*
+p {
+  font-size: 150%;
+}
+*/
+
+.level2 ul {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.level2 ul li ul li {
+  margin-left: -40%;
+  font-style: inherit;
+}
+
+.ppushed p, blockquote p {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+blockquote p {
+  text-align: center;
+  font-size: 130%;
+  line-height: 1.2em;
+  padding-top: 100px;
+}
+
+.citation {
+  text-align: center;
+  padding-top: 50px;
+  display: inherit;
+}
+
+.center {
+  display: inherit;
+}
+
+.grey {
+  color: #dddddd;
+}
+
+/*Image Properties*/
+img {
+  margin-top: -100pt;
+  display: block;
+  margin: auto;
+}
+
+.image img {
+  width: 60%;
+  display: block;
+  margin: auto;
+}
+
+.medium img {
+  width: 30%;
+  display: block;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.smallmedium img {
+  width: 25%;
+  display: block;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.small img {
+  width: 15%;
+  display: block;
+  margin: auto;
+}
+
+.graph img {
+  width: 70%;
+  display: inline-block;
+  margin: auto;  
+  margin-top: 25px;
+  padding: 0px 25px;
+}
+
+.smgraph img {
+  width: 40%;
+  display: inline-block;
+  margin: auto;  
+  margin-top: 25px;
+  padding: 0px 25px;
+}
+
+/*tables*/
+
+table {
+  margin-top: -70px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 70%;
+}
+
+td, th {
+  padding: 0.6em;
+}
+
+.datatables {
+  width: 40% !important;
+  margin-left: 3%;
+  margin-right: 8%;
+  float: left;
+}
+
+.col2 col:nth-of-type(2) {
+  min-width: 10%;
+}
+
+.td1 td:first-of-type {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.td2 td:nth-of-type(2) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.td3 td:nth-of-type(3) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.td4 td:nth-of-type(4) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.td4G td:nth-of-type(4) {
+  background: #4daf4a;
+  color: #fff;
+}
+
+.td5 td:nth-of-type(5) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.td5G td:nth-of-type(5) {
+  background: #4daf4a;
+  color: #fff;
+}
+
+.td6 td:nth-of-type(6) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.td7 td:nth-of-type(7) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.tr4 tr:nth-of-type(4) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.tr9 tr:nth-of-type(9) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.tr19 tr:nth-of-type(19) {
+  background: #1f78b4;
+  color: #fff;
+}
+
+.noheader table {
+  margin-top: -130px;
+}
+
+.noheader p {
+  margin-top: -50px;
+}
+

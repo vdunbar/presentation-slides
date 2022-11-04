@@ -1,0 +1,20 @@
+k <- function(n){
+  total = 0
+
+  for (k in 1:n) {
+  total = 1/k + total
+  }
+  return(total)
+}
+
+main <- function(){
+  x <- as.integer(readline(prompt = "What is n?"))
+  
+  output <- k(x)
+  
+  print(paste('Yo', output))
+  
+  
+}
+
+main()

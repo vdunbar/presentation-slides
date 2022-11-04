@@ -1,0 +1,8 @@
+"0","lfs$labour.force.status.ordered <- factor(lfs$Labour.force.status, levels = c(""Unemployed"", ""Employed, absent from work"", ""Not in labour force"", ""Employed, at work""))"
+"0",""
+"0","status.plot.ord <- ggplot(lfs, aes(x = labour.force.status.ordered)) +"
+"0","  geom_bar(fill = palette.1) +"
+"0","  labs(x = ""Status"", y = ""Count"") +"
+"0","  status.theme"
+"0",""
+"0","status.plot.ord"

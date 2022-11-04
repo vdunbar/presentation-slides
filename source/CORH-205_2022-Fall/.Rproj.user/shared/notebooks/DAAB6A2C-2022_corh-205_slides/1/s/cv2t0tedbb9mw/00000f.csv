@@ -1,0 +1,4 @@
+"0","piechart <- subset(lfs, select = Highest.educational.attainment)"
+"2","Error in subset(lfs, select = Highest.educational.attainment) : 
+  object 'lfs' not found
+"
