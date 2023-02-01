@@ -7,4 +7,4 @@ title: BIOL 420N
 | File | link |
 | --- | --- |
 | Slides | [html](files/biol-420n.html) |
-| Source | [html](../source/BIOL-420N_2023-Spring/) |
+| Source | [GitHub repo](https://github.com/vdunbar/presentation-slides/tree/main/source/BIOL-420N_2023-Spring) |
