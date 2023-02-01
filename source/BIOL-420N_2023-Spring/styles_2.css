@@ -200,6 +200,7 @@
   /* population table*/
     .poptable table {
     font-size: 90%;
+    margin: auto;
   }
   
   .td4 td:nth-of-type(4) {
