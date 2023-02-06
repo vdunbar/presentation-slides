@@ -8,3 +8,4 @@ title: BIOL 420N
 | --- | --- |
 | Slides | [html](files/biol-420n.html) |
 | Source | [GitHub repo](https://github.com/vdunbar/presentation-slides/tree/main/source/BIOL-420N_2023-Spring) |
+| Resources | [html](files/2023_biol-420n_resources.md) |
