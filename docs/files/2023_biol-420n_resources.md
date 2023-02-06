@@ -1,5 +1,3 @@
-## Links
-
 * Stephen Few
 	* [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 	* [Tapping the Power of Visual Perception](http://www.perceptualedge.com/articles/ie/visual_perception.pdf)
