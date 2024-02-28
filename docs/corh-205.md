@@ -6,5 +6,5 @@ title: CORH 205
 
 | File | html | pdf |
 | --- | --- | --- |
-| Slides | [html](/files/2024_corh-205_slides.html) | Pending |
+| Slides | [html](./files/2024_corh-205_slides.html) | Pending |
 | Notes | Pending | Pending |
