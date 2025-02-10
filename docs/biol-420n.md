@@ -1,11 +1,11 @@
 ---
-title: BIOL 420N
+title: BIOL 430N
 ---
 
-**2023-02-02**
+**2025-02-10**
 
 | File | link |
 | --- | --- |
-| Slides | [html](files/2025_biol-420n.html) |
+| Slides | [html](files/2025_biol-430n.html) |
 | Source | |
 | Resources | |
